@@ -1,0 +1,4 @@
+langchain==0.0.283
+streamlit==1.25.0
+streamlit_chat==0.0.2.2
+llama-cpp-python --upgrade --force-reinstall --no-cache-dir --install-option="--CMAKE_ARGS=-DLLAMA_CUBLAS=on --FORCE_CMAKE=1"
