@@ -1,6 +1,7 @@
 
+
 <div style='text-align: center; margin-bottom: 5px;'>
-    <h2 style='font-size: 40px; font-family: Courier New, monospace;
+    <h2 style='font-size: 500px; font-family: Courier New, monospace;
                     letter-spacing: 2px; text-decoration: none;'>
     <img src="https://acis.affineanalytics.co.in/assets/images/logo_small.png" alt="logo" width="30" height="30">
     <span style='margin-left: -20px;background: linear-gradient(45deg, #ed4965, #c05aaf);
@@ -8,12 +9,12 @@
                             -webkit-text-fill-color: transparent;
                             text-shadow: none;'>
                     IntelliCodeEx
-    </span>
-    <span style='font-size: 40%;'>
-    <sup style='position: relative; top: 5px; color: #ed4965;'>by Affine</sup>
-    </span>
-    </h2>
-    </div>
+</span>
+<span>
+<sup style='position: relative; top: 5px; color: #ed4965;font-size: -100px;'>by Affine</sup>
+</span>
+</h2>
+</div>
 
 
 IntelliCodeEx is a code explanation tool powered by LLM (Language Model) that utilizes the open-source Llama-2 7B GGML quantized model. It's designed to provide intelligent explanations for various programming languages. This project builds a Streamlit-based user interface for the proof of concept (POC). It includes a chatbot capable of explaining code in Python, C#, JavaScript, and .NET languages.
