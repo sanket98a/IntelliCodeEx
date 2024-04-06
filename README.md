@@ -3,7 +3,6 @@
 <div style='text-align: center; margin-bottom: 5px;'>
     <h2 style='font-size: 500px; font-family: Courier New, monospace;
                     letter-spacing: 2px; text-decoration: none;'>
-    <img src="" alt="logo" width="30" height="30">
     <span style='margin-left: -20px;background: linear-gradient(45deg, #ed4965, #c05aaf);
                             -webkit-background-clip: text;
                             -webkit-text-fill-color: transparent;
