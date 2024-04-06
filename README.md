@@ -3,7 +3,7 @@
 <div style='text-align: center; margin-bottom: 5px;'>
     <h2 style='font-size: 500px; font-family: Courier New, monospace;
                     letter-spacing: 2px; text-decoration: none;'>
-    <img src="https://acis.affineanalytics.co.in/assets/images/logo_small.png" alt="logo" width="30" height="30">
+    <img src="" alt="logo" width="30" height="30">
     <span style='margin-left: -20px;background: linear-gradient(45deg, #ed4965, #c05aaf);
                             -webkit-background-clip: text;
                             -webkit-text-fill-color: transparent;
@@ -60,11 +60,4 @@ IntelliCodeEx is a code explanation tool powered by LLM (Language Model) that ut
     ```
 
 This will start the IntelliCodeEx chatbot and allow you to explain code in various languages.
-
-
-
-<div style='text-align: center; margin-top:30px;margin-left:0px;'>
-    <img src="https://affine.ai/wp-content/uploads/2023/05/Affine-Logo.svg" alt="logo" width="500" height="100">
-    </div>
-
 
