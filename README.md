@@ -46,7 +46,7 @@ IntelliCodeEx is a code explanation tool powered by LLM (Language Model) that ut
 
 1. Clone the repository:
    ```cmd
-   git clone [http://xyz.com](https://github.com/sanket98a/IntelliCodeEx.git)
+   git clone https://github.com/sanket98a/IntelliCodeEx.git
    ```
 
 2. Install the required dependencies:
