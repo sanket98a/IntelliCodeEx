@@ -10,7 +10,7 @@
                     IntelliCodeEx
 </span>
 <span>
-<sup style='position: relative; top: 5px; color: #ed4965;font-size: -100px;'>by Affine</sup>
+<sup style='position: relative; top: 5px; color: #ed4965;font-size: -100px;'>by Sanki</sup>
 </span>
 </h2>
 </div>
